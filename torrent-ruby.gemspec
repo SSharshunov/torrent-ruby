@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
     'README',
     'Rakefile',
     'lib/torrent-ruby/bencode.rb',
-    'lib/torrent-ruby/torrent_file.rb',
+    'lib/torrent-ruby/torrent.rb',
     'lib/torrent-ruby/tracker.rb',
     'lib/torrent-ruby/tracker_handler.rb',
     'lib/torrent-ruby.rb'
